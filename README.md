@@ -1,6 +1,6 @@
 
 
-  <h1 align="center" dir="auto">Olá <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, Oi! Sou Assis Machado</h1>
+  <h1 align="center" dir="auto">Olá <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="35px" style="max-width: 100%; display: inline-block;">, Oi! Sou Assis Machado</h1>
 
 - 🏠 Natural de Piracuruca/PI;
 - 📚 Sou estudante de Ciência da Computação na Universidade Federal do Piauí-UFPI;
