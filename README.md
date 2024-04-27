@@ -13,7 +13,7 @@
   <img title="Java" align="center" alt="Assi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img title="HTML5" align="center" alt="html-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="css-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="TailwindCSS" align="center" alt="tailwindcss-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
 
 </div>
 
@@ -38,6 +38,9 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/CassianoJunior/CassianoJunior/blob/output/github-snake-dark.svg)
 ##
 <pre><span class="pl-k">&gt;</span> Dá uma olhada nos repositórios.. Valeu</pre>
+
+
 
