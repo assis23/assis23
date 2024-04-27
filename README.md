@@ -6,7 +6,8 @@
 - 📚 Sou estudante de Ciência da Computação na Universidade Federal do Piauí-UFPI;
 
 
-### 🛠<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Tecnologias e ferramentas:
+### 🛠<img 
+src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Tecnologias e ferramentas:
 
 <div align="center" dir="auto">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45px" height="45px"/> &nbsp;&nbsp;
