@@ -28,7 +28,7 @@
   <a href="mailto:contato@assismac200@gmail.com" target="_blank">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
   </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/AssisMachado/" rel="nofollow" target="_blank">
+  <a href="https://www.linkedin.com/in/assis-machado-8b2a94239/" rel="nofollow" target="_blank">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/assismachado_07/" rel="nofollow">
@@ -38,3 +38,4 @@
 
 ##
 <pre><span class="pl-k">&gt;</span> Dá uma olhada nos repositórios.. Valeu</pre>
+
