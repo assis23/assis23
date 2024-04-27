@@ -38,7 +38,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/CassianoJunior/CassianoJunior/blob/output/github-snake-dark.svg)
+
 ##
 <pre><span class="pl-k">&gt;</span> Dá uma olhada nos repositórios.. Valeu</pre>
 
